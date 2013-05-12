@@ -12,7 +12,8 @@ Escriba el divisor: 4
 La división es exacta. Cociente: 5
 
 Nota: 
-Se puede mejorar el programa haciendo que tenga en cuenta que no se puede dividir por cero:
+Se puede mejorar el programa haciendo que tenga en cuenta que no se 
+puede dividir por cero:
 
 Divisor de números
 Escriba el dividendo: 20
@@ -27,7 +28,8 @@ No se puede dividir por 0
 
 
 Semana 4 – Ejercicio 2
-Escriba un programa que pida dos números y que conteste cuál es el menor y cuál el mayor o que escriba que son iguales.
+Escriba un programa que pida dos números y que conteste cuál es el 
+menor y cuál el mayor o que escriba que son iguales.
 
 Comparador de números
 Escriba un número: 23
@@ -49,7 +51,9 @@ Los dos números son iguales
 
 
 Semana 4 – Ejercicio 3
-Escriba un programa que pida el año actual y un año cualquiera y que escriba cuántos años han pasado desde ese año o cuántos años faltan para llegar a ese año.
+Escriba un programa que pida el año actual y un año cualquiera y que 
+escriba cuántos años han pasado desde ese año o cuántos años faltan 
+para llegar a ese año.
 
 Comparador de años
 ¿En qué año estamos?: 2013
@@ -67,7 +71,8 @@ Escriba un año cualquiera: 1492
 ¡Son el mismo año!
 
 Nota: 
-Se puede mejorar el programa haciendo que tenga en cuenta cuando la diferencia es exactamente un año y escriba la frase en singular:
+Se puede mejorar el programa haciendo que tenga en cuenta cuando la 
+diferencia es exactamente un año y escriba la frase en singular:
 Comparador de años
 
 ¿En qué año estamos?: 2013
@@ -84,7 +89,8 @@ Para llegar al año 2015 falta 1 año.
 
 
 Semana 4 – Ejercicio 4
-Escriba un programa que pida dos números enteros y que escriba si el mayor es múltiplo del menor.
+Escriba un programa que pida dos números enteros y que escriba si el 
+mayor es múltiplo del menor.
 
 Comparador de múltiplos
 Escriba un número: 48
@@ -114,7 +120,8 @@ Escriba otro número: 6
 
 
 Semana 4 – Ejercicio 5
-Escriba un programa que pida tres números y que escriba si son los tres iguales, si hay dos iguales o si son los tres distintos.
+Escriba un programa que pida tres números y que escriba si son los tres 
+iguales, si hay dos iguales o si son los tres distintos.
 
 Comparador de tres números
 Escriba un número: 6
@@ -142,8 +149,10 @@ Los tres números que ha escrito son distintos.
 
 Semana 4 – Ejercicio 6
 Escriba un programa que pida un año y que escriba si es bisiesto o no. 
-Se recuerda que los años bisiestos son múltiplos de 4, pero los múltiplos de 100 no lo son, aunque los múltiplos de 400 sí.
-Estos son algunos ejemplos de posibles respuestas: 2012 es bisiesto, 2010 no es bisiesto, 2000 es bisiesto, 1900 no es bisiesto.
+Se recuerda que los años bisiestos son múltiplos de 4, pero los múltiplos
+de 100 no lo son, aunque los múltiplos de 400 sí.
+Estos son algunos ejemplos de posibles respuestas: 2012 es bisiesto, 2010 
+no es bisiesto, 2000 es bisiesto, 1900 no es bisiesto.
 
 Comprobador de años bisiestos
 Escriba un año y le diré si es bisiesto: 2000
@@ -158,8 +167,11 @@ El año 2000 es un año bisiesto porque es múltiplo de 400.
 
 
 Semana 4 - Ejercicio 7
-Escriba un programa que pida los coeficientes de una ecuación de primer grado (a x + b = 0) y escriba la solución. 
-Se recuerda que una ecuación de primer grado puede no tener solución, tener una solución única, o que todos los números sean solución. Se recuerda que la fórmula de las soluciones es x = -b / a
+Escriba un programa que pida los coeficientes de una ecuación de primer 
+grado (a x + b = 0) y escriba la solución. 
+Se recuerda que una ecuación de primer grado puede no tener solución, tener 
+una solución única, o que todos los números sean solución. Se recuerda 
+que la fórmula de las soluciones es x = -b / a
 Estos son algunos ejemplos de posibles respuestas
 
 
@@ -185,8 +197,12 @@ La solución de la ecuación es -5.0
 
 
 Semana 4 – Ejercicio 8
-Escriba un programa que pida los coeficientes de una ecuación de segundo grado (a x² + b x + c = 0) y escriba la solución. 
-Se recuerda que una ecuación de segundo grado puede no tener solución, tener una solución única, tener dos soluciones o que todos los números sean solución. Se recuerda que la fórmula de las soluciones cuando hay dos soluciones es x = (-b ± √(b2-4ac) ) / (2a)
+Escriba un programa que pida los coeficientes de una ecuación de segundo 
+grado (a x² + b x + c = 0) y escriba la solución. 
+Se recuerda que una ecuación de segundo grado puede no tener solución, 
+tener una solución única, tener dos soluciones o que todos los números sean solución. 
+Se recuerda que la fórmula de las soluciones cuando hay dos soluciones 
+es x = (-b ± √(b2-4ac) ) / (2a)
 Estos son algunos ejemplos de posibles respuestas. 
 
 a        b         c          Solución
@@ -212,8 +228,13 @@ Las soluciones de la ecuación son 3.0 y 0.5
 
 
 Semana 4 – Ejercicio 9
-Escriba un programa que pregunte primero si se quiere calcular el área de un triángulo o la de un círculo. Si se contesta que se quiere calcular el área de un triángulo, el programa tiene que pedir entonces la base y la altura y escribir el área. Si se contesta que se quiere calcular el área de un círculo, el programa tiene que pedir entonces el radio y escribir el área.
-Se recuerda que el área de un triángulo es base por altura dividido por 2 y que el área de un círculo es Pi (aproximadamente 3,141592) por el radio al cuadrado.
+Escriba un programa que pregunte primero si se quiere calcular el área de un triángulo
+o la de un círculo. Si se contesta que se quiere calcular el área de un triángulo, 
+el programa tiene que pedir entonces la base y la altura y escribir el área.
+Si se contesta que se quiere calcular el área de un círculo, el programa tiene que pedir 
+entonces el radio y escribir el área.
+Se recuerda que el área de un triángulo es base por altura dividido por 2 y que el área 
+de un círculo es Pi (aproximadamente 3,141592) por el radio al cuadrado.
 
 Cálculo de áreas - Elija una figura geométrica:
 a) Triángulo
@@ -239,7 +260,8 @@ Un círculo de radio 2.0 tiene un área de 12.566370614359172
 
 
 Semana 4 – Ejercicio 10
-Escriba un programa que pida una distancia en centímetros y que escriba esa distancia en kilómetros, metros y centímetros (escribiendo solamente las unidades necesarias).
+Escriba un programa que pida una distancia en centímetros y que escriba esa distancia
+en kilómetros, metros y centímetros (escribiendo solamente las unidades necesarias).
 Estos son algunos ejemplos de posibles respuestas:
 
 
